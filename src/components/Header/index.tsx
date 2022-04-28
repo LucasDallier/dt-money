@@ -10,7 +10,6 @@ export function Header() {
         <button type="button">
           Nova transação
         </button>
-
       </Content>
     </Container>
   )
